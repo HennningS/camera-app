@@ -1,3 +1,0 @@
-# camera-app
-
-Kameraapplikasjon 
